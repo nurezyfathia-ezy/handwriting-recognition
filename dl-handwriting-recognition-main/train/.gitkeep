@@ -1,0 +1,10 @@
+# This file keeps the train directory in git
+# Add your training images here, organized in subdirectories by class label
+# Example structure:
+# train/
+#   0/
+#     image1.png
+#     image2.png
+#   1/
+#     image1.png
+#     ...
